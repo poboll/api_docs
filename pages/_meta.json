@@ -1,0 +1,15 @@
+{
+  "index": "Api开放平台",
+  "another": "更多",
+  "advanced": "项目过程",
+  "about": {
+    "title": "关于",
+    "type": "page"
+  },
+  "contact": {
+    "title": "前往 温瞳 ↗",
+    "type": "page",
+    "href": "https://www.caiths.com",
+    "newWindow": true
+  }
+}
